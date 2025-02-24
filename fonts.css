@@ -7,8 +7,17 @@
 }
 
 @font-face {
-  font-family: "Kobe-regular";
+  font-family: "Kobe-bold";
   src: url("https://github.com/nowelflantier/assets-evm/blob/main/kobe11-bold.woff")
+    format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Kobe-bold2";
+  src: url("https://github.com/nowelflantier/assets-evm/raw/refs/heads/main/kobe11-bold.woff")
     format("woff");
   font-weight: 700;
   font-style: normal;
