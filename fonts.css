@@ -1,6 +1,14 @@
 @font-face {
-  font-family: "Kobe";
-  src: url("https://s3.eu-west-1.amazonaws.com/assets.applidget.com/Cofrex/Expo_Uni_Osaka/fonts/kobe11-bold.woff")
+  font-family: "Kobe-regular";
+  src: url("https://github.com/nowelflantier/assets-evm/blob/main/kobe11-regular.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kobe-regular";
+  src: url("https://github.com/nowelflantier/assets-evm/blob/main/kobe11-bold.woff")
     format("woff");
   font-weight: 700;
   font-style: normal;
